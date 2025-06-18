@@ -29,3 +29,35 @@
 /Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/obj/Debug/net9.0/LibraryManagerNet9.pdb
 /Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/obj/Debug/net9.0/LibraryManagerNet9.genruntimeconfig.cache
 /Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/obj/Debug/net9.0/ref/LibraryManagerNet9.dll
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9.staticwebassets.endpoints.json
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9.staticwebassets.runtime.json
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9.deps.json
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9.runtimeconfig.json
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9.dll
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/LibraryManagerNet9.pdb
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mlopezgl/LibraryUniva/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.csproj.AssemblyReference.cache
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.AssemblyInfoInputs.cache
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.AssemblyInfo.cs
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.csproj.CoreCompileInputs.cache
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.MvcApplicationPartsAssemblyInfo.cs
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.MvcApplicationPartsAssemblyInfo.cache
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.sourcelink.json
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/scopedcss/bundle/LibraryManagerNet9.styles.css
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/compressed/206s9g5yxy-2257anlsnt.gz
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/staticwebassets.build.json
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/staticwebassets.development.json
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryM.80FE0CA1.Up2Date
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.dll
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/refint/LibraryManagerNet9.dll
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.pdb
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/LibraryManagerNet9.genruntimeconfig.cache
+/Users/mlopezgl/LibraryUniva/obj/Debug/net9.0/ref/LibraryManagerNet9.dll

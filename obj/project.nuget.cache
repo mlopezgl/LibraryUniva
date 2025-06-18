@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZYbReSxKpM=",
+  "dgSpecHash": "qtiHEwisiZc=",
   "success": true,
-  "projectFilePath": "/Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/LibraryManagerNet9.csproj",
+  "projectFilePath": "/Users/mlopezgl/LibraryUniva/LibraryManagerNet9.csproj",
   "expectedPackageFiles": [
     "/Users/mlopezgl/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0-preview.3.24172.13/microsoft.aspnetcore.openapi.9.0.0-preview.3.24172.13.nupkg.sha512",
     "/Users/mlopezgl/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -17,9 +17,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "LibraryManagerNet9 depends on Microsoft.AspNetCore.OpenApi (>= 9.0.0-preview.3.24172.9) but Microsoft.AspNetCore.OpenApi 9.0.0-preview.3.24172.9 was not found. Microsoft.AspNetCore.OpenApi 9.0.0-preview.3.24172.13 was resolved instead.",
-      "projectPath": "/Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/LibraryManagerNet9.csproj",
+      "projectPath": "/Users/mlopezgl/LibraryUniva/LibraryManagerNet9.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/LibraryManagerNet9.csproj",
+      "filePath": "/Users/mlopezgl/LibraryUniva/LibraryManagerNet9.csproj",
       "libraryId": "Microsoft.AspNetCore.OpenApi",
       "targetGraphs": [
         "net9.0"

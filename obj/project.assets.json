@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/LibraryManagerNet9.csproj",
+      "projectUniqueName": "/Users/mlopezgl/LibraryUniva/LibraryManagerNet9.csproj",
       "projectName": "LibraryManagerNet9",
-      "projectPath": "/Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/LibraryManagerNet9.csproj",
+      "projectPath": "/Users/mlopezgl/LibraryUniva/LibraryManagerNet9.csproj",
       "packagesPath": "/Users/mlopezgl/.nuget/packages/",
-      "outputPath": "/Users/mlopezgl/Library/CloudStorage/OneDrive-InstitutoSuperiorAutonomodeOccidenteA.C/Licenciatura/Ciclo 2025-3-Mayo-Ago/Programacion Orientada a Objetos/LibraryManagerNet9/obj/",
+      "outputPath": "/Users/mlopezgl/LibraryUniva/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mlopezgl/.nuget/NuGet/NuGet.Config"
